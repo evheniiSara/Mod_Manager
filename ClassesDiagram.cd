@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mod_Manager.Classes.Account">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAQQAAAEECAAgAAgAQAAQQQAAEMECAACAAACAgAAAkA=</HashCode>
+      <FileName>Classes\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mod_Manager.Classes.Mod">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAEACAABAAgAEAAAAAAwAAAAIAAQAAEABAAA=</HashCode>
+      <FileName>Classes\Mod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Mod_Manager.Interfaces.IManagement">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAAAAAEA=</HashCode>
+      <FileName>Interfaces\IManagement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Mod_Manager.Interfaces.IStorage&lt;T&gt;">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IStorage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Mod_Manager.Attribute">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQACAAAEAAAgBAACEAAAAAIAAAAAAABAAAAAAgAAAAE=</HashCode>
+      <FileName>Enums\Attribute.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mod_Manager.Enums.Game">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAxAAAAAACAMAAABAACAAAAAAABAAAAgBCA=</HashCode>
+      <FileName>Enums\Game.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mod_Manager.Enums.Status">
+    <Position X="3.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAEAAIAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Status.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
